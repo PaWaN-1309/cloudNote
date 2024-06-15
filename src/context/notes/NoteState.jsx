@@ -87,4 +87,5 @@ const NoteState = (props) => {
         </NoteContext.Provider>
     )
 }
+
 export default NoteState;
